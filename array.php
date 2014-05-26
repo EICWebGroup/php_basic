@@ -10,3 +10,5 @@ echo $a[1] . "<br>\n";  // Mango は表示します
 echo $a[2] . "<br>\n";  // Orange は表示します
 echo $a[3] . "<br>\n";  // Watermelon は表示します
 echo $a[4] . "<br>\n";  // エラー です
+
+echo "a";
