@@ -17,8 +17,8 @@ echo $a[4] . "<br>\n";  // エラー です
  	$result_list=array();//空の配列を宣言
 
 	$obj = array(
-			"title" => "タイトル"
-			"body"	=> "本文"
+			"title" = "タイトル",
+			"body"	= "本文"
 		);
 	array_push($result_list, $obj);//$result_listに$objを追加
 	
