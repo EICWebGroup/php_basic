@@ -1,5 +1,5 @@
-*PHP‚Å‚Ìclass‚ÌŽg‚¢•û
-**2014//7/7
+#PHP‚Å‚Ìclass‚ÌŽg‚¢•û
+##2014//7/7
 
 
 class MyClass {
