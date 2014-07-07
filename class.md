@@ -1,7 +1,7 @@
 #PHP‚Å‚Ìclass‚Ìg‚¢•û
 ##2014//7/7
 
-
+```
 class MyClass {
 	
 	public $a;  //•Ï”‚ğéŒ¾‚·‚é‚Æ‚« public $•Ï”–¼
@@ -20,3 +20,4 @@ class MyClass {
 $myclass = new Myclass();
 
 $myclass->test2();
+```
