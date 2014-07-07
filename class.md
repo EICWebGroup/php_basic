@@ -1,5 +1,6 @@
 #PHPでのclassの使い方
 
+###Sample Code
 
 ```
 class MyClass //classの定義
@@ -26,6 +27,8 @@ $myclass = new Myclass(); //$myclassのところはそろえる
 $myclass->test2();
 ```
 
+###主な流れ
+
 * classの定義
 * 変数の宣言
 * 関数の定義
@@ -33,7 +36,7 @@ $myclass->test2();
 * オブジェクトの生成
 * 呼び出し
 
-javaとの違い
+###javaとの違い
 * 変数を宣言するときpublicをつける必要がある
 * 変数の頭には$をつける
 * ドット.ではなく、アロー演算子->で渡す
